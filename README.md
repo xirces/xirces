@@ -16,9 +16,10 @@ Next year I will be pursuing my Master's Degree in Complex Systems & Data Scienc
 
 ## Experience
 
-I've done projects as part of my coursework in various contexts and programming languages:
+I've done projects in and out of class in various contexts and programming languages:
+- Client-server guitar marketplace (no longer functional, ceased payment for remote hosting)
+- Coding and NLP relating to silences in palliative care conversations
 - Analysis of the relationship between steak temping and risk
-- Client-server guitar marketplace (no longer functional, stopped payment for remote hosting)
 - Exploration of position fluctuation and the mechanics of F1 racing
 
 ## Contact
