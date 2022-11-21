@@ -6,13 +6,13 @@ I'm looking right now for concrete experience in the industry at an entry level 
 Next year I will be pursuing my Master's Degree in Complex Systems & Data Science at UVM in partnership with the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/).
 
 ## Skills
- - Python (Pandas, SK-Learn, Matplotlib, Numpy, etc.)
+ - Python (Pandas, SK-Learn, Matplotlib, Numpy)
  - R (ggplot, tidyverse, ML packages)
- - SQL
+ - SQL (MySQL, PostgreSQL, Oracle)
  - Java
  - C++
  - Statistics (AB Testing, Inference, Analysis, etc.)
- - ML Techniques (kNN, Rule Learners, Decision Trees, kMeans, etc.)
+ - ML Techniques (kNN, Rule Learners, Decision Trees, kMeans)
 
 ## Experience
 
