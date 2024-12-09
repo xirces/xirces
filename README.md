@@ -18,11 +18,11 @@ I'm pursuing concrete industry experience in big data at an entry-early level, b
 
 I've done projects in and out of class in various contexts and programming languages:
 - Client-server guitar marketplace (no longer functional, ceased payment for remote hosting)
+- NLP analysis of job postings and course catalogs to quantify the "skills gap" [My Master's Project](https://github.com/VERSO-UVM/Xirces_Project)
+- Enterprise-level data migration from Microsoft DAX using Oracle Netsuite and Microsoft Azure
 - Coding and NLP relating to silences in palliative care conversations
 - Analysis of the relationship between steak temping and risk
 - Exploration of position fluctuation and the mechanics of F1 racing
-- NLP analysis of job postings and course catalogs to quantify the "skills gap"
-- Enterprise-level data migration from Microsoft DAX using Oracle Netsuite and Microsoft Azure
 
 ## Contact
 - Email: maxperrotto37@gmail.com
