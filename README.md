@@ -1,9 +1,8 @@
 # Max Perrotto
 ### Aspiring Data Scientist
 
-Hello! I'm a student at the Univsersity of Vermont in my Senior year of our Data Science program.
-I'm looking right now for concrete experience in the industry at an entry level likely in the form of an internship, but I'm open to anything. I just want to get my hands dirty!
-Next year I will be pursuing my Master's Degree in Complex Systems & Data Science at UVM in partnership with the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/).
+Hello! I am an alumnus from the University of Vermont with a M.S. degree in Complex Systems & Data Science, currently based in my hometown of Burlington, VT.
+I'm pursuing concrete industry experience in big data at an entry-early level, but I'm open to anything. I just want to get my hands dirty!
 
 ## Skills
  - Python (Pandas, SK-Learn, Matplotlib, Numpy)
@@ -12,7 +11,8 @@ Next year I will be pursuing my Master's Degree in Complex Systems & Data Scienc
  - Java
  - C++
  - Statistics (AB Testing, Inference, Analysis, etc.)
- - ML Techniques (kNN, Rule Learners, Decision Trees, kMeans)
+ - ML Techniques (Supervised & Unsupervised)
+ - Deep Learning & AI (Transformers, Neural Networks)
 
 ## Experience
 
@@ -21,6 +21,8 @@ I've done projects in and out of class in various contexts and programming langu
 - Coding and NLP relating to silences in palliative care conversations
 - Analysis of the relationship between steak temping and risk
 - Exploration of position fluctuation and the mechanics of F1 racing
+- NLP analysis of job postings and course catalogs to quantify the "skills gap"
+- Enterprise-level data migration from Microsoft DAX using Oracle Netsuite and Microsoft Azure
 
 ## Contact
 - Email: maxperrotto37@gmail.com
