@@ -25,5 +25,5 @@ I've done projects in and out of class in various contexts and programming langu
 - Exploration of position fluctuation and the mechanics of F1 racing
 
 ## Contact
-- Email: maxperrotto37@gmail.com
+- Email: maxperrotto@proton.me
 - LinkedIn: https://www.linkedin.com/in/max-perrotto-714b801a1/
